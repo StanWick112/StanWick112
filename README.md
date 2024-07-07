@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StanWick112
+- 👋 Hi, I’m Stan Wick
 - 👀 I’m interested in Fullstack / AI Developer
 - 🌱 I’m currently learning at Arizona State University
 - 📫 How to reach me by email
