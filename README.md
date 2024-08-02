@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stan Wick
 - 👀 I’m interested in Fullstack / AI Developer
-- 🌱 I’m currently learning at Arizona State University
+- 🌱 I’m currently learning at Arizona State University (Remote / Online)
 - 📫 How to reach me by email
 - 😄 Pronouns: he/him
 
